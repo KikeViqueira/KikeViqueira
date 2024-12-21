@@ -90,8 +90,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KikeViqueira&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="KikeViqueira's Top Languages" bg_color="#808080"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KikeViqueira&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&cache_seconds=1800" alt="KikeViqueira's Top Languages" bg_color="#808080"/>
 </div>
+
 
 ---
 
